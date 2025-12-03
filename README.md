@@ -12,8 +12,4 @@
 * **Ch7 - 物件導向 (OOP)**：類別 (Class)、繼承、實例與靜態函數
 * **Ch8 - 檔案與異常處理**：File I/O、Try-Except 異常捕捉、模組封裝
 * **Ch9~10 - Numpy 矩陣運算**
-  * 陣列 (Array) 的建立與提取
-  * 廣播運算 (Broadcasting) 與矩陣數學
 * **Ch11 - Matplotlib 資料視覺化**
-  * 二維統計繪圖、極座標
-  * 等高線圖與 3D 繪圖
