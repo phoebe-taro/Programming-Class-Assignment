@@ -1,5 +1,4 @@
-# 程式設計課程作業 (Programming-Class-Assignment)
-
+# 程式設計
 這是我的課程學習紀錄，主要使用 Python 與 Google Colab 進行實作。
 
 ## 檔案目錄
